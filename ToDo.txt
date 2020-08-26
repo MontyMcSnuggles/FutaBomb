@@ -1,0 +1,2 @@
+Program analyzes the beats in a given song, then proceeds to open up tabs of futa to the beat of said song
+Need a way to compress and host all the futa for free, so that internet speed isn't a bottleneck 
