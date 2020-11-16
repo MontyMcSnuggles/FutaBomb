@@ -1,4 +1,3 @@
-Change timstamp format to milliseconds (multiply by 1000 before adding to list).
 Find a way to locally play music.
 Add Google Drive File donwloader alongside the image downloader.
 Find a way to terminate the Core Loop once it runs out of images (it may already do this)
