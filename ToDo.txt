@@ -1,3 +1,4 @@
-Program analyzes the beats in a given song, then proceeds to open up tabs of futa to the beat of said song
-Need a way to compress and host all the futa for free, so that internet speed isn't a bottleneck 
-Maybe manually create timecodes for each song to give emphasis? Use http://www.multistopwatch.com/ to create timestamps, 'L' to create lap/ beat timing.
+Change timstamp format to milliseconds (multiply by 1000 before adding to list).
+Find a way to locally play music.
+Add Google Drive File donwloader alongside the image downloader.
+Find a way to terminate the Core Loop once it runs out of images (it may already do this)
